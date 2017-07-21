@@ -1,20 +1,22 @@
 body {
-	background-color:;
+	background-color:`#ffffff`;
 	font-family:;
-	font-color:;
+	font-color:#777777;
 	margin:;
 	padding:;
 
 }
 
 .nav-bar-container {
-	background-color:;
+	background-color:`#ffffff`;
+	border-color: `#cccccc`;
+
 
 }
 
 .name {
-	background-color:;
-	font-color:;
+	background-color: #4aaaa5;
+	font-color:#777777;
 
 }
 
@@ -51,6 +53,7 @@ body {
 }
 
 footer{
+	background-color: `#666666`;
 
 }
 .portfolio{
