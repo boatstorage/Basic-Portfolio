@@ -58,7 +58,7 @@ body {
 }
 
 div.content-area {
-	height: 250px;
+	height: 500px;
 	width: 100%;
 	padding: 50px 0px 50px 0px;
 
@@ -107,12 +107,13 @@ div.content-area {
 	display: flex;
 	justify-content: space-around;
 
+
 }
 
 .main-content {
 	border: solid lightgrey 1px;
 	width: 500px;
-	height: 300px;
+	height: 400px;
 	background-color: white;
 }
 
@@ -341,4 +342,15 @@ textarea {
 	height: 500px;
 	background-color: white;
 }*/
+
+#button{
+	background-color: #4aaaa5;
+	color: white;
+	text-align: center;
+	display: inline-block;
+	font-size: 16px;
+	border:none;
+	padding: 15px 32px;
+	text-decoration: none;
+}
 
