@@ -222,31 +222,29 @@ footer{
 }
 
 .portfolio-card {
-	display: flex;
-	align-items: flex-end;
-	width: 180px;
-	padding: 5px;
+	float: left;
+	width: 320px;
+	height: 270px;
 }
 
 .portfolio-card-container {
-	display: flex;
-	flex-wrap: wrap;
+	float: left;
+	background-color: #ffffff;
+	border-color: #dddddd;
+	border-style: solid;
+	height: 900px;
+	width: 650px;
+	margin: 25px 25px 25px 200px
+	padding: 20px;
+	line-height: 200%;
 }
 
-/*.Hangman-link h2{
-	position: absolute;
-	top: 200px;
-	left: 0;
-	width: 100%;*/
+.pics {
+	margin: 20px;
+	width: 290px;
+	height: 220px;
 }
-/*.Hangman-link h2 span{
-	color: white; 
-   font: bold 20px Helvetica, Sans-Serif; 
-   letter-spacing: -1px;  
-   background:
- 	padding: 10px;
-   width: 100%;*/
-}
+
 
 .banner{
 	height: 60px;
@@ -254,37 +252,7 @@ footer{
 	margin-bottom: 5px;
 }
 
-.Rpg-game{
 
-}
-
-.Rpg-game h2{
-
-}
-
-.Trivia-game{
-
-}
-
-.Trivia-game h2{
-
-}
-
-.Info-widget {
-
-}
-
-.Info-widget h2{
-
-}
-
-.Rock-paper-scissors {
-
-}
-
-.Rock-paper-scissors h2{
-
-}
 
 .contact {
 	background-color:#ffffff;
